@@ -1,18 +1,9 @@
-"job_type";"word";"frequency"
-"data_analysis";"provide";"56"
-"data_analysis";"ensure";"52"
-"data_analysis";"analyst";"49"
-"data_analysis";"program";"47"
-"data_analysis";"analytics";"46"
-"data_analysis";"maintain";"45"
-"data_analysis";"quality";"44"
-"data_analysis";"processes";"44"
-"data_analysis";"assist";"43"
-"data_analysis";"information";"43"
-"data_science";"data";"482"
-"data_science";"business";"140"
-"data_science";"analysis";"110"
-"data_science";"develop";"89"
-"data_science";"team";"84"
-"data_science";"development";"79"
-"data_science";"work";"77"
+"region";"subregion";"key";"value"
+"Asia";"Southern Asia";"Afghanistan";25500100
+"Europe";"Northern Europe";"Åland Islands";28502
+"Europe";"Southern Europe";"Albania";2821977
+"Africa";"Northern Africa";"Algeria";37900000
+"Oceania";"Polynesia";"American Samoa";55519
+"Europe";"Southern Europe";"Andorra";76246
+"Africa";"Middle Africa";"Angola";20609294
+"Americas";"Caribbean";"Anguilla";13452
